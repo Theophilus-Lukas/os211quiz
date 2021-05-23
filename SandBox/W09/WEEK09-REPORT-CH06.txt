@@ -1,0 +1,229 @@
+ZCZC ===== Chapter 06 =====  Week 09 =====
+ZCZC pwd /home/Theophilus-Lukas/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1339
+ZCZC hostname Theophilus-Lukas
+ZCZC username Theophilus-Lukas
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 3946-0EF2 Verified
+ZCZC MaxLFS 1864M
+ZCZC MaxROOT 4025M
+ZCZC MaxMemory 259M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 260M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4049-AF6C Verified
+ZCZC MaxMemory 262M
+ZCZC MaxMemory 267M
+ZCZC MaxMemory 268M
+ZCZC MaxLFS 1875M
+ZCZC MaxMemory 269M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4150-BBF5 Verified
+ZCZC MaxMemory 271M
+ZCZC MaxMemory 274M
+ZCZC MaxLFS 1878M
+ZCZC MaxLFS 1879M
+ZCZC MaxMemory 310M
+ZCZC MaxLFS 1884M
+ZCZC MaxLFS 1886M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4252-BBC8 Verified
+ZCZC MaxLFS 1888M
+ZCZC MaxMemory 331M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4353-7637 Verified
+ZCZC MaxLFS 1901M
+ZCZC MaxLFS 1903M
+ZCZC MaxMemory 349M
+ZCZC MaxLFS 1905M
+ZCZC MaxLFS 1910M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4455-46A3 Verified
+ZCZC MaxLFS 1919M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4557-DE0B Verified
+ZCZC MaxROOT 4026M
+ZCZC MaxMemory 557M
+ZCZC MaxLFS 1927M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4659-6372 Verified
+ZCZC MaxLFS 1941M
+ZCZC MaxLFS 1944M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4800-4735 Verified
+ZCZC MaxLFS 1945M
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1952M
+ZCZC MaxLFS 1954M
+ZCZC MaxLFS 1958M
+ZCZC MaxLFS 1963M
+ZCZC MaxLFS 1968M
+ZCZC MaxLFS 2010M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 4902-AF43 Verified
+ZCZC MaxLFS 2058M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5003-BBBA Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5105-8B72 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5207-B2F2 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5308-B7E1 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5410-947D Verified
+ZCZC MaxROOT 4028M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5511-315A Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5613-022D Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5715-9C83 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5816-5D95 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 5918-08B1 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0019-3A14 Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0120-01FD Verified
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0222-CA44 Verified
+ZCZC MaxLFS 2301M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0323-3A59 Verified
+ZCZC MaxLFS 2302M
+ZCZC MaxLFS 2303M
+ZCZC MaxLFS 2304M
+ZCZC MaxLFS 2311M
+ZCZC MaxLFS 2318M
+ZCZC MaxLFS 2322M
+ZCZC MaxLFS 2330M
+ZCZC MaxLFS 2334M
+ZCZC MaxROOT 4029M
+ZCZC MaxMemory 606M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0425-8740 Verified
+ZCZC MaxLFS 2341M
+ZCZC MaxLFS 2372M
+ZCZC MaxLFS 2388M
+ZCZC MaxLFS 2403M
+ZCZC MaxLFS 2410M
+ZCZC MaxLFS 2419M
+ZCZC MaxROOT 4031M
+ZCZC MaxLFS 2430M
+ZCZC MaxLFS 2440M
+ZCZC MaxLFS 2471M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0527-E5B8 Verified
+ZCZC MaxLFS 2491M
+ZCZC MaxLFS 2767M
+ZCZC MaxLFS 2902M
+ZCZC MaxLFS 2938M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0629-4371 Verified
+ZCZC MaxLFS 2939M
+ZCZC MaxLFS 2940M
+ZCZC MaxLFS 2943M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0730-DE4D Verified
+ZCZC MaxLFS 2953M
+ZCZC MaxLFS 2962M
+ZCZC MaxLFS 2965M
+ZCZC MaxLFS 2967M
+ZCZC MaxLFS 2974M
+ZCZC MaxLFS 2978M
+ZCZC MaxLFS 2983M
+ZCZC MaxLFS 2987M
+ZCZC MaxLFS 2990M
+ZCZC MaxLFS 2998M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0832-93A2 Verified
+ZCZC MaxLFS 3000M
+ZCZC MaxLFS 3001M
+ZCZC MaxLFS 3002M
+ZCZC MaxLFS 3003M
+ZCZC MaxLFS 3014M
+ZCZC MaxMemory 632M
+ZCZC MaxLFS 3023M
+ZCZC MaxMemory 755M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 0934-8D3E Verified
+ZCZC MaxLFS 3041M
+ZCZC MaxLFS 3043M
+ZCZC MaxLFS 3054M
+ZCZC MaxMemory 920M
+ZCZC MaxLFS 3059M
+ZCZC MaxMemory 1329M
+ZCZC MaxLFS 3065M
+ZCZC MaxLFS 3068M
+ZCZC MaxMemory 1359M
+ZCZC MaxLFS 3078M
+ZCZC MaxLFS 3080M
+ZCZC MaxMemory 1553M
+ZCZC MaxLFS 3081M
+ZCZC MaxMemory 1916M
+ZCZC MaxLFS 3085M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1038-85C3 Verified
+ZCZC MaxLFS 3100M
+ZCZC MaxMemory 1943M
+ZCZC MaxLFS 3107M
+ZCZC MaxLFS 3109M
+ZCZC MaxROOT 4032M
+ZCZC MaxMemory 2275M
+ZCZC MaxLFS 3115M
+ZCZC MaxROOT 4038M
+ZCZC MaxLFS 3123M
+ZCZC MaxLFS 3130M
+ZCZC MaxROOT 4041M
+ZCZC MaxLFS 3136M
+ZCZC MaxROOT 4043M
+ZCZC MaxLFS 3141M
+ZCZC MaxROOT 4068M
+ZCZC MaxLFS 3153M
+ZCZC MaxLFS 3158M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1141-8DFE Verified
+ZCZC MaxLFS 3164M
+ZCZC MaxLFS 3167M
+ZCZC MaxLFS 3178M
+ZCZC MaxLFS 3185M
+ZCZC MaxLFS 3193M
+ZCZC MaxLFS 3202M
+ZCZC MaxLFS 3207M
+ZCZC MaxLFS 3216M
+ZCZC MaxLFS 3222M
+ZCZC MaxLFS 3232M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1244-CD79 Verified
+ZCZC MaxLFS 3237M
+ZCZC MaxROOT 4111M
+ZCZC MaxLFS 3249M
+ZCZC MaxLFS 3278M
+ZCZC MaxLFS 3286M
+ZCZC MaxLFS 3295M
+ZCZC MaxLFS 3299M
+ZCZC MaxLFS 3305M
+ZCZC MaxLFS 3314M
+ZCZC MaxLFS 3325M
+ZCZC MaxLFS 3327M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1347-64E1 Verified
+ZCZC MaxLFS 3337M
+ZCZC MaxLFS 3344M
+ZCZC MaxLFS 3354M
+ZCZC MaxLFS 3358M
+ZCZC MaxLFS 3369M
+ZCZC MaxLFS 3376M
+ZCZC MaxLFS 3386M
+ZCZC MaxLFS 3394M
+ZCZC MaxLFS 3400M
+ZCZC MaxLFS 3408M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1450-1A24 Verified
+ZCZC MaxLFS 3417M
+ZCZC MaxLFS 3427M
+ZCZC MaxLFS 3433M
+ZCZC MaxLFS 3439M
+ZCZC MaxLFS 3451M
+ZCZC MaxLFS 3462M
+ZCZC MaxLFS 3468M
+ZCZC MaxLFS 3470M
+ZCZC MaxLFS 3483M
+ZCZC MaxLFS 3491M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1553-588D Verified
+ZCZC MaxLFS 3495M
+ZCZC MaxLFS 3503M
+ZCZC MaxLFS 3512M
+ZCZC MaxLFS 3516M
+ZCZC MaxLFS 3522M
+ZCZC MaxLFS 3528M
+ZCZC MaxLFS 3532M
+ZCZC MaxLFS 3543M
+ZCZC MaxLFS 3552M
+ZCZC MaxMemory 2330M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1656-C79B Verified
+ZCZC MaxLFS 3611M
+ZCZC MaxLFS 3615M
+ZCZC MaxLFS 3622M
+ZCZC MaxROOT 4123M
+ZCZC MaxLFS 3657M
+ZCZC MaxLFS 4017M
+ZCZC MaxMemory 2706M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1758-F74F Verified
+ZCZC MaxLFS 4655M
+ZCZC MaxLFS 4660M
+ZCZC MaxLFS 4666M
+ZCZC MaxLFS 5726M
+ZCZC MaxLFS 5731M
+ZCZC verifyTokenn Theophilus-LukasW09 Theophilus-Lukas 1859-CF8B Verified
